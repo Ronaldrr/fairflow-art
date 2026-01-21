@@ -1,5 +1,9 @@
 # FairFlow Art
 
+Website: https://fairflow.space  
+Project overview (Notion): https://www.notion.so/FairFlow-Art-Redeemable-NFT-Marketplace-for-Physical-Art-2eeac7d91fc580b98d65f8ec477ffca0  
+Primary chain: Polygon | Art pilot: Tezos
+
 FairFlow Art is a non-fractional RWA NFT marketplace where each NFT represents a redeemable right to a physical artwork held in custody.
 
 ## Core principles
